@@ -6,18 +6,15 @@ repo: status # Your GitHub repository name
 sites:
   - name: Online Home of Rajkumar S
     url: https://rajkumaar.co.in
+  - name: PlayStore API
+    url: https://api-playstore.rajkumaar.co.in
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.rajkumaar.co.in
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  name: Uptime for Online Home of Rajkumar S
+  name: Uptime | Online Home of Rajkumar S
+  logoUrl: https://avatars.githubusercontent.com/u/37476886?s=460&u=99db89835ee1162724b904e0260e94522cb91470&v=4
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
