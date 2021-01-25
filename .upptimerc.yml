@@ -11,10 +11,10 @@ sites:
 
 status-website:
   cname: status.rajkumaar.co.in
-  name: Uptime | Online Home of Rajkumar S
+  name: Uptime
   logoUrl: https://avatars.githubusercontent.com/u/37476886?s=460&u=99db89835ee1162724b904e0260e94522cb91470&v=4
   navbar:
-    - title: Status
-      href: /
+    - title: Home
+      href: https://rajkumaar.co.in
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
