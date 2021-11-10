@@ -24,19 +24,19 @@
     "url": "https://api-playstore.rajkumaar.co.in",
     "icon": "https://favicons.githubusercontent.com/api-playstore.rajkumaar.co.in",
     "slug": "play-store-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 185,
-    "timeWeek": 564,
-    "timeMonth": 849,
-    "timeYear": 871,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 870,
+    "timeDay": 321,
+    "timeWeek": 567,
+    "timeMonth": 842,
+    "timeYear": 870,
     "dailyMinutesDown": {
-      "2021-11-10": 0
+      "2021-11-10": 22
     }
   }
 ]
