@@ -6,8 +6,6 @@ repo: status # Your GitHub repository name
 sites:
   - name: Online Home of Rajkumar S
     url: https://rajkumaar.co.in
-  - name: PlayStore API
-    url: https://api-playstore.rajkumaar.co.in
 
 status-website:
   cname: status.rajkumaar.co.in
