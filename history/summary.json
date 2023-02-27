@@ -22,19 +22,19 @@
     "url": "https://api-playstore.rajkumaar.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/api-playstore.rajkumaar.co.in.ico",
     "slug": "playstore-api",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
-    "time": 402,
-    "timeDay": 402,
-    "timeWeek": 402,
-    "timeMonth": 402,
-    "timeYear": 402,
+    "status": "up",
+    "uptime": "37.71%",
+    "uptimeDay": "37.71%",
+    "uptimeWeek": "37.71%",
+    "uptimeMonth": "37.71%",
+    "uptimeYear": "37.71%",
+    "time": 503,
+    "timeDay": 503,
+    "timeWeek": 503,
+    "timeMonth": 503,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-02-27": 0
+      "2023-02-27": 10
     }
   },
   {
