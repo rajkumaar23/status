@@ -1,7 +1,7 @@
 url: https://api-playstore.rajkumaar.co.in
-status: up
-code: 200
-responseTime: 476
-lastUpdated: 2023-03-23T23:16:56.635Z
+status: down
+code: 502
+responseTime: 11258
+lastUpdated: 2023-03-23T23:49:21.355Z
 startTime: Mon Feb 27 2023 04:28:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
