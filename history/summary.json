@@ -4,19 +4,19 @@
     "url": "https://rajkumaar.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/rajkumaar.co.in.ico",
     "slug": "online-home-of-rajkumar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 114,
-    "timeWeek": 121,
-    "timeMonth": 100,
+    "timeDay": 100,
+    "timeWeek": 116,
+    "timeMonth": 99,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2023-05-01": 0
+      "2023-05-01": 13
     }
   },
   {
