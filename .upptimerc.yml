@@ -8,6 +8,7 @@ sites:
     url: https://rajkumaar.co.in
   - name: Playstore API
     url: https://api-playstore.rajkumaar.co.in
+    maxResponseTime: 120000
   - name: Plausible Analytics
     url: https://plausible.pi.rajkumaar.co.in   
 
