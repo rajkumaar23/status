@@ -21,9 +21,9 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page for my online services.
   scripts:
-    - src: https://plausible.pi.rajkumaar.co.in/js/script.js
+    - src: https://gc.zgo.at/count.js
       defer: true
-      dataDomain: status.rajkumaar.co.in
+      dataGoatcounter: https://status-rajkumaar.goatcounter.com/count
   navbar:
     - title: Home
       href: https://rajkumaar.co.in
