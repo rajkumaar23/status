@@ -7,8 +7,7 @@ sites:
   - name: Online Home of Rajkumar
     url: https://rajkumaar.co.in
   - name: Playstore API
-    url: https://api-playstore.rajkumaar.co.in
-    maxResponseTime: 120000
+    url: https://api-playstore.rajkumaar.co.in/json?id=in.co.rajkumaar.amritarepo
   - name: vCard Editor
     url: https://vcard-editor.rajkumaar.co.in    
 
