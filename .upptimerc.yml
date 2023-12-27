@@ -6,10 +6,26 @@ repo: status # Your GitHub repository name
 sites:
   - name: Online Home of Rajkumar
     url: https://rajkumaar.co.in
+  - name: Pi - Home Page
+    url: https://pi.rajkumaar.co.in    
   - name: Playstore API
     url: https://api-playstore.rajkumaar.co.in/json?id=in.co.rajkumaar.amritarepo
   - name: vCard Editor
     url: https://vcard-editor.rajkumaar.co.in    
+  - name: Piped - YT Frontend
+    url: https://yt.rajkumaar.co.in
+  - name: Piped API
+    url: https://api.yt.rajkumaar.co.in/healthcheck
+  - name: Dozzle
+    url: https://dozzle.rajkumaar.co.in/healthcheck
+  - name: Jellyfin
+    url: https://jellyfin.rajkumaar.co.in
+  - name: CodeChef Contest Arena - API
+    url: https://api.codechef-arena.rajkumaar.co.in/healthcheck
+  - name: CodeChef Contest Arena - API
+    url: https://api.codechef-arena.rajkumaar.co.in/healthcheck
+  - name: Amrita Repository - Telegram Bot
+    url: https://amrita-repo-bot.rajkumaar.co.in/healthcheck
 
 status-website:
   cname: status.rajkumaar.co.in
