@@ -22,8 +22,6 @@ sites:
     url: https://jellyfin.rajkumaar.co.in
   - name: CodeChef Contest Arena - API
     url: https://api.codechef-arena.rajkumaar.co.in/healthcheck
-  - name: CodeChef Contest Arena - API
-    url: https://api.codechef-arena.rajkumaar.co.in/healthcheck
   - name: Amrita Repository - Telegram Bot
     url: https://amrita-repo-bot.rajkumaar.co.in/healthcheck
 
