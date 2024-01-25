@@ -15,7 +15,7 @@ sites:
     url: https://pi.rajkumaar.co.in
     icon: https://pi.rajkumaar.co.in/favicon.ico
   - name: Piped - YT Frontend
-    url: https://yt.rajkumaar.co.in
+    url: https://yt.rajkumaar.co.in/trending
     icon: https://yt.rajkumaar.co.in/favicon.ico
   - name: Piped API
     url: https://api.yt.rajkumaar.co.in/healthcheck
