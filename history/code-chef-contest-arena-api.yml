@@ -1,7 +1,7 @@
 url: https://api.codechef-arena.rajkumaar.co.in/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-07T02:39:06.737Z
+status: up
+code: 200
+responseTime: 91
+lastUpdated: 2024-02-07T02:48:51.530Z
 startTime: 2023-12-27T21:46:29.580Z
 generator: Upptime <https://github.com/upptime/upptime>
