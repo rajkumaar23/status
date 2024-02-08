@@ -1,7 +1,7 @@
 url: https://api.yt.rajkumaar.co.in/healthcheck
-status: up
-code: 200
-responseTime: 275
-lastUpdated: 2024-02-07T23:15:38.223Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-02-08T19:22:14.131Z
 startTime: 2023-12-27T21:46:27.927Z
 generator: Upptime <https://github.com/upptime/upptime>
