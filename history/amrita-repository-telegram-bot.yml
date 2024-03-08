@@ -1,7 +1,7 @@
 url: https://amrita-repo-bot.rajkumaar.co.in/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-08T19:18:21.926Z
+status: up
+code: 200
+responseTime: 271
+lastUpdated: 2024-03-08T19:27:14.895Z
 startTime: 2023-12-27T21:46:30.467Z
 generator: Upptime <https://github.com/upptime/upptime>
