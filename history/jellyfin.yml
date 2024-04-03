@@ -1,7 +1,7 @@
 url: https://jellyfin.rajkumaar.co.in
-status: up
-code: 200
-responseTime: 365
-lastUpdated: 2024-04-02T23:16:51.777Z
+status: down
+code: 502
+responseTime: 296
+lastUpdated: 2024-04-03T21:19:49.920Z
 startTime: 2023-12-27T21:46:28.982Z
 generator: Upptime <https://github.com/upptime/upptime>
