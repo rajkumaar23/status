@@ -10,22 +10,15 @@ sites:
     url: https://api-playstore.rajkumaar.co.in/json?id=in.co.rajkumaar.amritarepo
     icon: https://www.gstatic.com/android/market_images/web/favicon_v3.ico
   - name: vCard Editor
-    url: https://vcard-editor.rajkumaar.co.in    
+    url: https://vcard-editor.rajkumaar.co.in
+  - name: tls watch
+    url: https://tls.rajkumaar.co.in    
   - name: Pi - Home Page
     url: https://pi.rajkumaar.co.in
     icon: https://pi.rajkumaar.co.in/favicon.ico
-  - name: Piped - YT Frontend
-    url: https://yt.rajkumaar.co.in/trending
-    icon: https://yt.rajkumaar.co.in/favicon.ico
-  - name: Piped API
-    url: https://api.yt.rajkumaar.co.in/healthcheck
-    icon: https://yt.rajkumaar.co.in/favicon.ico
   - name: Dozzle
     url: https://dozzle.rajkumaar.co.in/healthcheck
     icon: https://dozzle.dev/favicon.ico
-  - name: Jellyfin
-    url: https://jellyfin.rajkumaar.co.in
-    icon: https://jellyfin.org/images/favicon.ico
   - name: CodeChef Contest Arena - API
     url: https://api.codechef-arena.rajkumaar.co.in/healthcheck
     icon: https://codechef.com/favicon.ico
