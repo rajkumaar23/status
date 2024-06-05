@@ -1,7 +1,7 @@
 url: https://api-playstore.rajkumaar.co.in/json?id=in.co.rajkumaar.amritarepo
-status: down
-code: 502
-responseTime: 263
-lastUpdated: 2024-06-05T05:54:20.541Z
+status: up
+code: 200
+responseTime: 390
+lastUpdated: 2024-06-05T17:32:34.825Z
 startTime: 2023-02-27T04:28:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
