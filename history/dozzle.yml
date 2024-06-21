@@ -1,7 +1,7 @@
 url: https://dozzle.rajkumaar.co.in/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-21T05:30:32.117Z
+status: up
+code: 200
+responseTime: 289
+lastUpdated: 2024-06-21T05:42:01.608Z
 startTime: 2023-12-27T21:46:28.457Z
 generator: Upptime <https://github.com/upptime/upptime>
