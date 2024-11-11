@@ -17,8 +17,8 @@ sites:
     url: https://pi.rajkumaar.co.in
     icon: https://pi.rajkumaar.co.in/favicon.ico
   - name: Dozzle
-    url: https://dozzle.rajkumaar.co.in/healthcheck
-    icon: https://dozzle.dev/favicon.ico
+    url: https://portainer.rajkumaar.co.in/api/status
+    icon: https://www.portainer.io/hubfs/crane-icon.svg
   - name: CodeChef Contest Arena - API
     url: https://api.codechef-arena.rajkumaar.co.in/healthcheck
     icon: https://codechef.com/favicon.ico
