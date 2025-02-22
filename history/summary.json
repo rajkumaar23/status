@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 146,
-    "timeWeek": 100,
-    "timeMonth": 113,
+    "timeDay": 95,
+    "timeWeek": 105,
+    "timeMonth": 112,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://www.gstatic.com/android/market_images/web/favicon_v3.ico",
     "slug": "playstore-api",
     "status": "up",
-    "uptime": "83.17%",
+    "uptime": "83.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.48%",
-    "time": 437,
-    "timeDay": 228,
-    "timeWeek": 1227,
-    "timeMonth": 618,
+    "time": 438,
+    "timeDay": 510,
+    "timeWeek": 1229,
+    "timeMonth": 619,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2025-02-15": 71,
@@ -56,8 +56,7 @@
       "2024-04-05": 15,
       "2024-04-01": 42,
       "2024-03-20": 62,
-      "2024-02-24": 62,
-      "2024-02-23": 6
+      "2024-02-24": 62
     }
   },
   {
@@ -72,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 154,
-    "timeWeek": 133,
+    "timeDay": 92,
+    "timeWeek": 137,
     "timeMonth": 138,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -90,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 149,
-    "timeWeek": 113,
-    "timeMonth": 111,
+    "timeDay": 94,
+    "timeWeek": 119,
+    "timeMonth": 110,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -103,17 +102,16 @@
     "slug": "pi-home-page",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.63%",
     "time": 291,
-    "timeDay": 146,
-    "timeWeek": 185,
-    "timeMonth": 207,
+    "timeDay": 194,
+    "timeWeek": 184,
+    "timeMonth": 210,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-02-21": 13,
       "2025-01-27": 160,
       "2025-01-26": 28,
       "2025-01-06": 16,
@@ -135,8 +133,7 @@
       "2024-04-08": 39,
       "2024-04-01": 42,
       "2024-03-20": 48,
-      "2024-02-24": 62,
-      "2024-02-23": 5
+      "2024-02-24": 62
     }
   },
   {
@@ -151,9 +148,9 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.66%",
     "time": 358,
-    "timeDay": 108,
+    "timeDay": 279,
     "timeWeek": 198,
-    "timeMonth": 226,
+    "timeMonth": 228,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2025-01-27": 160,
@@ -175,8 +172,7 @@
       "2024-04-09": 20,
       "2024-04-08": 37,
       "2024-04-01": 40,
-      "2024-02-24": 62,
-      "2024-02-23": 4
+      "2024-02-24": 62
     }
   },
   {
@@ -191,9 +187,9 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.74%",
     "time": 335,
-    "timeDay": 146,
-    "timeWeek": 213,
-    "timeMonth": 264,
+    "timeDay": 297,
+    "timeWeek": 212,
+    "timeMonth": 267,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2025-01-27": 160,
@@ -212,8 +208,7 @@
       "2024-04-09": 19,
       "2024-04-08": 37,
       "2024-04-01": 39,
-      "2024-02-24": 62,
-      "2024-02-23": 3
+      "2024-02-24": 62
     }
   },
   {
@@ -222,15 +217,15 @@
     "icon": "https://raw.githubusercontent.com/rajkumaar23/AmritaRepo/master/app/src/main/res/drawable/logosq.png",
     "slug": "amrita-repository-telegram-bot",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.67%",
     "time": 286,
-    "timeDay": 125,
-    "timeWeek": 207,
-    "timeMonth": 230,
+    "timeDay": 280,
+    "timeWeek": 205,
+    "timeMonth": 231,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-01-27": 160,
@@ -250,8 +245,7 @@
       "2024-04-09": 19,
       "2024-04-08": 35,
       "2024-04-01": 39,
-      "2024-02-24": 62,
-      "2024-02-23": 2
+      "2024-02-24": 62
     }
   }
 ]
