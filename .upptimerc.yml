@@ -7,7 +7,7 @@ sites:
   - name: Homelab
     url: $HOMELAB_SITE
     check: "tcp-ping"
-    port: 443
+    port: 80
 
 status-website:
   cname: status.rajkumaar.co.in
