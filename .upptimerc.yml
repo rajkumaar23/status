@@ -6,6 +6,8 @@ repo: status # Your GitHub repository name
 sites:
   - name: Homelab
     url: $HOMELAB_SITE
+    expectedStatusCodes:
+      - 404
 
 status-website:
   cname: status.rajkumaar.co.in
