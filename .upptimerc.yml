@@ -4,10 +4,10 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Homelab
-    url: $HOMELAB_SITE
+  - name: Google Play Store API
+    url: https://play.rajkumaar.co.in/json?id=com.dd.doordash
     expectedStatusCodes:
-      - 404
+      - 200
 
 status-website:
   cname: status.rajkumaar.co.in
