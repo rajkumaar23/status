@@ -4,17 +4,17 @@
     "url": "https://play.rajkumaar.co.in/json?id=com.dd.doordash",
     "icon": "https://icons.duckduckgo.com/ip3/play.rajkumaar.co.in.ico",
     "slug": "google-play-store-api",
-    "status": "down",
-    "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.65%",
-    "uptimeMonth": "96.68%",
-    "uptimeYear": "98.84%",
-    "time": 211,
-    "timeDay": 88,
-    "timeWeek": 210,
-    "timeMonth": 281,
-    "timeYear": 211,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "89.09%",
+    "uptimeWeek": "86.09%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "98.77%",
+    "time": 210,
+    "timeDay": 105,
+    "timeWeek": 201,
+    "timeMonth": 277,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2026-01-03": 18,
       "2026-01-20": 754,
@@ -22,7 +22,8 @@
       "2026-05-05": 70,
       "2026-05-19": 208,
       "2026-06-03": 745,
-      "2026-06-05": 500
+      "2026-06-05": 500,
+      "2026-06-07": 157
     }
   }
 ]
