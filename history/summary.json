@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.rajkumaar.co.in.ico",
     "slug": "google-play-store-api",
     "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.48%",
-    "uptimeMonth": "96.32%",
-    "uptimeYear": "98.80%",
+    "uptime": "98.40%",
+    "uptimeDay": "29.85%",
+    "uptimeWeek": "83.46%",
+    "uptimeMonth": "94.02%",
+    "uptimeYear": "98.40%",
     "time": 211,
-    "timeDay": 279,
-    "timeWeek": 205,
-    "timeMonth": 280,
+    "timeDay": 221,
+    "timeWeek": 213,
+    "timeMonth": 278,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2026-01-03": 18,
@@ -23,7 +23,9 @@
       "2026-05-19": 208,
       "2026-06-03": 745,
       "2026-06-05": 500,
-      "2026-06-07": 157
+      "2026-06-07": 157,
+      "2026-06-12": 247,
+      "2026-06-11": 763
     }
   }
 ]
